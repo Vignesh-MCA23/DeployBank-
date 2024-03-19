@@ -4,7 +4,7 @@ export default function Home(){
         <>
         <div id="home">
          <h3>Welcome to Wiki BANK</h3>
-         <img src={image} alt="home" height='200px' width='350px'></img>
+         <img src={image} alt="home"></img>
 
          <h4>"Online banking"</h4>
          <p> Empowering Financial Knowledge and Inclusion</p>
