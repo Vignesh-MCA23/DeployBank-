@@ -25,7 +25,7 @@ export default function Alldata(){
   }
   return(
     <>
-      <h2>Bank Users Database</h2>
+      <h2 style={{color: "white"}}>Bank Users Database</h2>
      <Table striped bordered hover>
       <thead>
         <tr>
