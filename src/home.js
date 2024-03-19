@@ -3,7 +3,7 @@ export default function Home(){
     return(
         <>
         <div id="home">
-         <h3>Welcome to <span id="span-1">Wiki</span>-<span id="span-2">BANK</span></h3>
+         <h3>Welcome to Wiki BANK</h3>
          <img src={image} alt="home" height='200px' width='350px'></img>
 
          <h4>"Online banking"</h4>
